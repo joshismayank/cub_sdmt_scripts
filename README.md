@@ -1,4 +1,4 @@
-# cub_swe_scripts
+# cub_sdmt_scripts
 ###### scripts to assist in grading
 
 * Step 1:  
